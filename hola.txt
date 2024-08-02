@@ -2,6 +2,9 @@ Hola, yo soy Jorge Luis Castillo Ruz, tengo 19 años. Soy estudiante de ingenier
 Me encanta aprender y me gusta mucho tomar cursos en Platzi. Igual me gusta mucho tocar el piano y 
 mi tema favorito en este cuatrimestre fue grafos.
 
+Este espacio aprece extra pero tiene un significado enorme en el funturo porque representará el avance intelectual sobre las tecnologías
+que he tenido y estaré orgulloso de tener, ya que habré aprendido a utilizar un merge en git.
+
 Igual quiero agregar que aprender linux me emociona mucho, y quiero tener todo el conocimiento posible en
 ciencia de datos.
 
